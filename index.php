@@ -364,7 +364,7 @@ TypingText.runAll();
 <img src="https://1.bp.blogspot.com/-r9z7gno_Kmc/WKzuDapzzkI/AAAAAAAAAfs/iEco8UwEuiMxvovwEGuLcZkO0AN8mfxBQCLcB/s1600/logo%2B5.jpg"width="350"height="350"> 
 <h2 class="glow2" ><font style="color:white;text-shadow:#000 0px 0px 3px">.::Pawned By::.</font><br> <span style="color:gray;font-family:Iceland;text-shadow:white 0px 0px 10px">./</span><span style="color:#ffffff;font-family:Iceland;text-shadow:#FF0099 0px 0px 10px">@Securittweb</b></h2> 
 <p><b><font style="color:whitw;text-shadow:#000 0px 0px 3px">#Web sitenizde tehlikeli bir güvenlik açığı tespit ettik. Bu açık, sitenizin kontrolünü tamamen kaybetmenize neden olabilir. <br> Kötü niyetli saldırganlar her an harekete geçebilir. Zaman aleyhinize işliyor! </font> 
-<br><font style="color:yellow;text-shadow:#000 0px 0px 3px">Telegram İletişim: @SecuritywebHacker
+<br><font style="color:yellow;text-shadow:#000 0px 0px 3px">Telegram İletişim: @Securittweb
 
             </font> 
             </p> 
